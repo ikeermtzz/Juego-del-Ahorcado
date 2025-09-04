@@ -14,6 +14,7 @@ Guarda tu script (por ejemplo `ahorcado.py`) y ejecútalo:
 
 bash
 python ahorcado.py
+
 🧠 ¿Cómo funciona?
 Se elige una palabra secreta con choice() desde lista_palabras.
 
@@ -28,6 +29,7 @@ El progreso se muestra reemplazando letras no adivinadas por _.
 Condición de victoria: set(palabra).issubset(letras_correctas).
 
 🧩 Estructura del código (funciones)
+
 elegir_palabra(lista): retorna una palabra al azar.
 
 pedir_letra(usadas): pide y valida una letra (una sola, a–z, no repetida).
