@@ -5,7 +5,7 @@ Un ahorcado clásico por consola: el programa elige una palabra al azar y tú la
 ---
 
 ## 🚀 Requisitos
-- Python 3.8+ (no requiere librerías externas)
+- Python 3.8+ (librería random)
 
 ---
 
